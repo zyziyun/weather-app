@@ -5,6 +5,6 @@
 
 
 # Demo
-![DEMO1](Project-DEMO1.png "DEMO1")
-![DEMO2](Project-DEMO2.png "DEMO2")
-![DEMO3](Project-DEMO2.png "DEMO3")
+![DEMO1](demo/Project-DEMO1.png "DEMO1")
+![DEMO2](demo/Project-DEMO2.png "DEMO2")
+![DEMO3](demo/Project-DEMO2.png "DEMO3")
